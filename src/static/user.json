@@ -1,0 +1,31 @@
+[
+    {
+       "id":"1",
+       "nombre":"Jesús Sarmiento",
+       "email":"jesus.sarmiento@prueba.com",
+       "password":"Prueba.2023",
+       "rol":"Administrador"
+    },
+    {
+       "id":"2",
+       "nombre":"Jair Salgado",
+       "email":"jair.salgado@prueba.com",
+       "password":"Prueba.2024",
+       "rol":"Coordinador"
+    },
+    {
+       "id":"3",
+       "nombre":"Emilio Cortes",
+       "email":"emilio.cortes@prueba.com",
+       "password":"Prueba.2025",
+       "rol":"Administrador"
+    },
+    {
+       "id":"4",
+       "nombre":"Bladimir Hernández",
+       "email":"bladimir.hernandez@prueba.com",
+       "password":"Prueba.2026",
+       "rol":"Coordinador"
+    }
+ ]
+ 
